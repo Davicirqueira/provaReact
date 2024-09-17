@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import './styles.scss';
 
+
 import Card from '../../components/card';
 
 export default function Inicio() {
@@ -65,6 +66,7 @@ export default function Inicio() {
         )}
 
       </div>
+
     </div>
   );
 }
